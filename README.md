@@ -1,2 +1,2 @@
 # Lab1
-This is my homework from BGU Multi-dis project
+This is my homework from VGU Multi-dis project
