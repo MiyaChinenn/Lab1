@@ -1,11 +1,35 @@
-#Function in Python to Compute Sum of Two Numbers:
+#Function in Python to Compute Sum of Two Numbers (Python):
 
 def compute_sum(a, b):
     result = a + b
     return result
 
-# Example usage
+// Example usage
 num1 = 10
 num2 = 20
 sum_result = compute_sum(num1, num2)
 print("The sum is:", sum_result)
+
+
+#Function in Python to Compute Sum and Subtract of Two Numbers (Java):
+
+public class YourJavaFile {
+    public static int sum(int a, int b) {
+        return a + b;
+    }
+
+    public static int subtract(int a, int b) {
+        return a - b;
+    }
+
+    // Example usage
+    public static void main(String[] args) {
+        int result = sum(10, 5);
+        System.out.println("Sum: " + result);
+
+        int difference = subtract(10, 5);
+        System.out.println("Difference: " + difference);
+    }
+}
+
+
