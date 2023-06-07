@@ -1,0 +1,11 @@
+#Function in Python to Compute Sum of Two Numbers:
+
+def compute_sum(a, b):
+    result = a + b
+    return result
+
+# Example usage
+num1 = 10
+num2 = 20
+sum_result = compute_sum(num1, num2)
+print("The sum is:", sum_result)
